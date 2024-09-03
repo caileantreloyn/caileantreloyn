@@ -7,6 +7,14 @@
 -Contact:   
   caltreloyn1@gmail.com  
 
+-What I'm working on:  
+A video game calculator for one of my favourite games  
+A game about punching  
+
+-Games I've made previously:  
+https://ee3eee.itch.io/  
+
+
 -Pets: A kind of feral cat named Bear, but he is cute.   
 
 
