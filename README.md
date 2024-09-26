@@ -9,6 +9,7 @@
 
 -What I'm working on:  
 A video game calculator for one of my favourite games  
+Working with a team on a horror game with a robotic companion.
 A game about punching  
 
 -Games I've made previously:  
