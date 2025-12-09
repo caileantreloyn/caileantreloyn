@@ -9,7 +9,9 @@
 
 -What I'm working on:  
 Melon Factory (trying to finish a game)
+
 A video game calculator for one of my favourite games  
+
 Working with a team on a horror game with a robotic companion.
 
 A game about punching  
